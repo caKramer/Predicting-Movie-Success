@@ -2,6 +2,10 @@
 
 Investigating the relationship between a movie's production budget, and its reception by audiences and critics, to determine if a large production budget is enough to predict success of a movie, or if there are more variables that dictate if a movie will be a hit or a miss. 
 
+If you haven't pulled data before start with my [Python Data Gathering](https://github.com/caKramer/Python-data-gathering/tree/main) repository for learning how to ingest a CSV, a website, and API. 
+
+Launch the PredictingMovieSucces_code.ipynb in Jupyter lab/notebook. Run the notebook to walk through the EDA plus visualizations and models.
+
 
 ## Data Sources
 
