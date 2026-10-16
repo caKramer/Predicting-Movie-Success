@@ -6,6 +6,8 @@ If you haven't pulled data before start with my [Python Data Gathering](https://
 
 Launch the PredictingMovieSucces_code.ipynb in Jupyter lab/notebook. Run the notebook to walk through the EDA plus visualizations and models.
 
+CSVs included if you decide to start there and not get an API key for OMDb API. Then, start with the final _cleaned.csvs files.
+
 
 ## Data Sources
 
